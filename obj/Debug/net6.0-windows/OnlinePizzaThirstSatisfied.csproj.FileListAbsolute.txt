@@ -1,0 +1,17 @@
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\bin\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.exe
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\bin\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.deps.json
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\bin\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.runtimeconfig.json
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\bin\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.dll
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\bin\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.pdb
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.csproj.AssemblyReference.cache
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.Form1.resources
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.csproj.GenerateResource.cache
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.AssemblyInfoInputs.cache
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.AssemblyInfo.cs
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.csproj.CoreCompileInputs.cache
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.dll
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\refint\OnlinePizzaThirstSatisfied.dll
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.pdb
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\OnlinePizzaThirstSatisfied.genruntimeconfig.cache
+C:\Users\Sannal Yadav\OneDrive\Desktop\Project MS\OnlinePizzaThirstSatisfied\OnlinePizzaThirstSatisfied\obj\Debug\net6.0-windows\ref\OnlinePizzaThirstSatisfied.dll
